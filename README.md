@@ -1,5 +1,5 @@
 # claudioabrun.github.io
-Hello World!
+Hello World! I'm an up and coming software developer mainly focused on gaming development! Knowledgeable in C++, C#, and Python. Pleased to meet you!
 
 LinkedIn: www.linkedin.com/in/claudio-brun-9b3632278
 
